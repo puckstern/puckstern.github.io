@@ -8,7 +8,11 @@
     {% include header.html %}
 
     <div class="page-content">
-      <div class="wrapper">
+        {% if page.title != 'Posts'%}
+        <div class="wrapper">
+        {% else %}
+        <div class="special-wrapper">
+        {% endif %}
         {{ content }}
       </div>
     </div>

@@ -6,16 +6,22 @@
 
 
 // Our variables
-$base-font-family: 'Times New Roman', serif;
-$base-font-size:   16px;
+$base-font-family: 'Century Gothic', Helvetica, sans-serif;
+$index-font-family: 'Century Gothic', sans-serif;
+$base-font-size:   13px;
 $small-font-size:  $base-font-size * 0.875;
+$large-font-size: $base-font-size * 1.425;
 $base-line-height: 1.5;
+$header-background: url("/images/pw222dx-img.jpg");
 
 $spacing-unit:     40px;
 
 $text-color:       #333;
-$background-color: #b1b2c1;
-$brand-color:      #fff;
+$background-color: #E0E7D2;
+$background-color-light: #FDFAE5;
+$color-box-transparancy: rgba(255,255,255,0.8);
+$color-box-transparancy-light: rgba(255,255,255,0.6);
+$brand-color:      #333;
 
 $grey-color:       #333;
 $grey-color-light: lighten($grey-color, 70%);

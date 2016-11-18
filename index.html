@@ -1,24 +1,22 @@
 ---
-layout: default
+layout: home
 ---
-
+<!--
 <div class="home">
 
-  <h1 class="page-heading">Puckiz</h1>
+ <h1 class="page-heading">Puckiz</h1>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-          <span class="post-meta">{{ post.date | date: "%A, %B %-d, %Y" }} //
-          <a class="comment-count" href="{{ post.url | prepend: site.baseurl }}#disqus_thread">{{ post.title }}</a></span>
-      </li>
-    {% endfor %}
-  </ul>
+<ul class="post-list">
+   {% for post in site.posts %}
+     <li>
+       <h2>
+         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+       </h2>
+         <span class="post-meta">{{ post.date | date: "%A, %B %-d, %Y" }} //
+         <a class="comment-count" href="{{ post.url | prepend: site.baseurl }}#disqus_thread">{{ post.title }}</a></span>
+     </li>
+   {% endfor %}
+ </ul>!
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
+</div>-->
 
