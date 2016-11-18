@@ -2,7 +2,7 @@
 title: Puck
 email: pw222dx@student.lnu.se
 description: En samlingssida, för närvarande under uppbyggnad, för mina projekt; samt projekt jag medverkat i.
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/puckstern" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 github_username: puckstern
 
