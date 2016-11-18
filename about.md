@@ -12,7 +12,7 @@ permalink: /about/
 </ul>
 
 <p>
-Lite så va. I övrigt pluggar tredje året på Interaktionsdesginer-programmey, och jobbar på Stockholms största byggvaruhus. 
+Lite så va. I övrigt pluggar tredje året på Interaktionsdesginer-programmet, och jobbar på Stockholms största byggvaruhus.
 Min högsta dröm är att bli Ernst 2.0 (Kirchsteiger såklart), och bygga saker samtidigt som jag lagar någon magisk gryta. En
 annan dröm är att bli nedsänkt i ett hav av hundvalpar. Vi får väl se vad som sker först.</p>
 <p>
